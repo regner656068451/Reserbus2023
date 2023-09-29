@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/nav_item_eins"
+            android:icon="@drawable/ico_reservas"
+            android:title="Gestionar Mis Reservas" />
+        <item android:id="@+id/nav_item_zwei"
+            android:icon="@drawable/ico_cargar"
+            android:title="Cargar Credito"/>
+        <item android:id="@+id/nav_item_drei"
+            android:icon="@drawable/ico_historial"
+            android:title="Historial de Viajes"/>
+        <item android:id="@+id/nav_item_sechs"
+            android:icon="@drawable/ico_trabaja"
+            android:title="Trabaja con Nosotros"/>
+        <item android:id="@+id/nav_item_sieben"
+            android:icon="@drawable/ico_ayuda"
+            android:title="Ayuda"/>
+    </group>
+</menu>
+
